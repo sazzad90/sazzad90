@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sazzad Hossain</h1>
-<h3 align="center">An enthusiast in Full-stack development</h3>
+<h3 align="center">An enthusiast in Full-Stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzad90&label=Profile%20views&color=0e75b6&style=flat" alt="sazzad90" /> </p>
 
