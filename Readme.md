@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sazzad Hossain</h1>
-<h3 align="center">A passionate Full-stack developer</h3>
+<h3 align="center">An enthusiast in Full-stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzad90&label=Profile%20views&color=0e75b6&style=flat" alt="sazzad90" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazzad90" alt="sazzad90" /></a> </p>
-
-- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://sazzad90.github.io/index.html](https://sazzad90.github.io/index.html)
 
